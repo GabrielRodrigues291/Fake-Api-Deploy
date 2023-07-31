@@ -1,74 +1,72 @@
-{
-    "produtos": [
-        {
-            "id": 1,
-            "nome": "Calvin Klein Camiseta feminina",
-            "preco": 35.00,
-            "descricao": "Camisa",
-            "src": "https://m.media-amazon.com/images/I/71bH8XAuJSL._AC_SX569_.jpg"
-        },
-        {
-            "id": 2,
-            "nome": "Caneca Astronauta",
-            "preco": 23.50,
-            "descricao": "Caneca",
-            "src": "https://m.media-amazon.com/images/I/61utn+nh1zL._AC_SX569_.jpg"
-        },
-        {
-            "id": 3,
-            "nome": "Camiseta Basica Unissex Travis Scott Look Mom I Can Fly",
-            "preco": 75.00,
-            "descricao": "Camisa",
-            "src": "https://m.media-amazon.com/images/I/616AyBJpbhL._AC_SX569_.jpg"
-        },
-        {
-            "id": 4,
-            "nome": "Caneca Batman",
-            "preco": 15.55,
-            "descricao": "Caneca",
-            "src": "https://m.media-amazon.com/images/I/51ATKYx436L._AC_SX679_.jpg"
-        },
-        {
-            "id": 5,
-            "nome": "Camiseta Happy Not",
-            "preco": 30.00,
-            "descricao": "Camisa",
-            "src": "https://m.media-amazon.com/images/I/61RKHzI0ccL._AC_SX569_.jpg"
-        },
-        {
-            "id": 6,
-            "nome": "Caneca Joker Black",
-            "preco": 22.50,
-            "descricao": "Caneca",
-            "src": "https://m.media-amazon.com/images/I/51Lzf0AizKL._AC_SL1000_.jpg"
-        },
-        {
-            "id": 7,
-            "nome": "Camiseta Camisa Barbeiro Barbearia Masculina preto",
-            "preco": 100.00,
-            "descricao": "Camisa",
-            "src": "https://m.media-amazon.com/images/I/71Oh2dXOb7L._AC_SX569_.jpg"
-        },
-        {
-            "id": 8,
-            "nome": "Caneca Rick and morty I am right black",
-            "preco": 49.75,
-            "descricao": "Caneca",
-            "src": "https://m.media-amazon.com/images/I/51mK-IqtaAL._AC_SX569_.jpg"
-        },
-        {
-            "id": 9,
-            "nome": "Camiseta Camisa Melhor Pai Dia dos Pais Masculina Preto",
-            "preco": 65.00,
-            "descricao": "Camisa",
-            "src": "https://m.media-amazon.com/images/I/51KBuwm95xL._AC_SY606_.jpg"
-        },
-        {
-            "id": 10,
-            "nome": "Caneca noCoffe",
-            "preco": 22.00,
-            "descricao": "Caneca",
-            "src": "https://m.media-amazon.com/images/I/71vcCT9dUeL._AC_SX569_.jpg"
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "nome": "Calvin Klein Camiseta feminina",
+        "preco": 35.00,
+        "descricao": "Camisa",
+        "src": "https://m.media-amazon.com/images/I/71bH8XAuJSL._AC_SX569_.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Caneca Astronauta",
+        "preco": 23.50,
+        "descricao": "Caneca",
+        "src": "https://m.media-amazon.com/images/I/61utn+nh1zL._AC_SX569_.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Camiseta Basica Unissex Travis Scott Look Mom I Can Fly",
+        "preco": 75.00,
+        "descricao": "Camisa",
+        "src": "https://m.media-amazon.com/images/I/616AyBJpbhL._AC_SX569_.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Caneca Batman",
+        "preco": 15.55,
+        "descricao": "Caneca",
+        "src": "https://m.media-amazon.com/images/I/51ATKYx436L._AC_SX679_.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Camiseta Happy Not",
+        "preco": 30.00,
+        "descricao": "Camisa",
+        "src": "https://m.media-amazon.com/images/I/61RKHzI0ccL._AC_SX569_.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Caneca Joker Black",
+        "preco": 22.50,
+        "descricao": "Caneca",
+        "src": "https://m.media-amazon.com/images/I/51Lzf0AizKL._AC_SL1000_.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Camiseta Camisa Barbeiro Barbearia Masculina preto",
+        "preco": 100.00,
+        "descricao": "Camisa",
+        "src": "https://m.media-amazon.com/images/I/71Oh2dXOb7L._AC_SX569_.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Caneca Rick and morty I am right black",
+        "preco": 49.75,
+        "descricao": "Caneca",
+        "src": "https://m.media-amazon.com/images/I/51mK-IqtaAL._AC_SX569_.jpg"
+    },
+    {
+        "id": 9,
+        "nome": "Camiseta Camisa Melhor Pai Dia dos Pais Masculina Preto",
+        "preco": 65.00,
+        "descricao": "Camisa",
+        "src": "https://m.media-amazon.com/images/I/51KBuwm95xL._AC_SY606_.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Caneca noCoffe",
+        "preco": 22.00,
+        "descricao": "Caneca",
+        "src": "https://m.media-amazon.com/images/I/71vcCT9dUeL._AC_SX569_.jpg"
+    }
+]
