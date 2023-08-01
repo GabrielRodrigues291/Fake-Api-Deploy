@@ -68,5 +68,9 @@
         "preco": 22.00,
         "descricao": "Caneca",
         "src": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg"
+    },
+    {
+        "email": "admin@gmail.com",
+        "senha": "admin"
     }
 ]
