@@ -1,72 +1,72 @@
 [
     {
         "id": 1,
-        "nome": "Calvin Klein Camiseta feminina",
+        "nome": "Camiseta Today Vecna",
         "preco": 35.00,
         "descricao": "Camisa",
-        "src": "https://m.media-amazon.com/images/I/71bH8XAuJSL._AC_SX569_.jpg"
+        "src": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_unissex_hoje_nao_vecna_not_today_vecna_stranger_things_netflix_musica_spotify_preto_cd_106857_variacao_34013_1_084f7f3a971716c6d4c9202e2beb6025.jpeg"
     },
     {
         "id": 2,
-        "nome": "Caneca Astronauta",
+        "nome": "Caneca Black Ring",
         "preco": 23.50,
         "descricao": "Caneca",
-        "src": "https://m.media-amazon.com/images/I/61utn+nh1zL._AC_SX569_.jpg"
+        "src": "https://images.unsplash.com/photo-1520031473529-2c06dea61853?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
     },
     {
         "id": 3,
         "nome": "Camiseta Basica Unissex Travis Scott Look Mom I Can Fly",
         "preco": 75.00,
         "descricao": "Camisa",
-        "src": "https://m.media-amazon.com/images/I/616AyBJpbhL._AC_SX569_.jpg"
+        "src": "https://down-br.img.susercontent.com/file/304a13863d1f340b8a41de20c76f7947"
     },
     {
         "id": 4,
-        "nome": "Caneca Batman",
+        "nome": "Caneca Cerâmica artesanal",
         "preco": 15.55,
         "descricao": "Caneca",
-        "src": "https://m.media-amazon.com/images/I/51ATKYx436L._AC_SX679_.jpg"
+        "src": "https://img.elo7.com.br/product/main/40BD63A/caneca-250ml-em-ceramica-artesanal-presente.jpg"
     },
     {
         "id": 5,
-        "nome": "Camiseta Happy Not",
+        "nome": "Camiseta The Last of Us Part II",
         "preco": 30.00,
         "descricao": "Camisa",
-        "src": "https://m.media-amazon.com/images/I/61RKHzI0ccL._AC_SX569_.jpg"
+        "src": "https://static.riachuelo.com.br/RCHLO/14706806004/portrait/9fb69849163cab6e152559b607c2653e1a2d0052.jpg"
     },
     {
         "id": 6,
         "nome": "Caneca Joker Black",
         "preco": 22.50,
         "descricao": "Caneca",
-        "src": "https://m.media-amazon.com/images/I/51Lzf0AizKL._AC_SL1000_.jpg"
+        "src": "https://static3.tcdn.com.br/img/img_prod/460977/caneca_joker_coringa_dc_comics_aqui_esta_o_meu_cartao_preta_ev_100493_1_90a63fcf32dd14b56dedea8ac8fba6b5.jpg"
     },
     {
         "id": 7,
         "nome": "Camiseta Camisa Barbeiro Barbearia Masculina preto",
         "preco": 100.00,
         "descricao": "Camisa",
-        "src": "https://m.media-amazon.com/images/I/71Oh2dXOb7L._AC_SX569_.jpg"
+        "src": "https://img.elo7.com.br/product/original/25184C7/camiseta-masculina-barber-shop-barbearia-skull-caveira-store.jpg"
     },
     {
         "id": 8,
-        "nome": "Caneca Rick and morty I am right black",
+        "nome": "Caneca Rick and morty",
         "preco": 49.75,
         "descricao": "Caneca",
-        "src": "https://m.media-amazon.com/images/I/51mK-IqtaAL._AC_SX569_.jpg"
+        "src": "https://i.etsystatic.com/39324846/r/il/37bcd6/4598457375/il_fullxfull.4598457375_3lay.jpg"
     },
     {
         "id": 9,
         "nome": "Camiseta Camisa Melhor Pai Dia dos Pais Masculina Preto",
         "preco": 65.00,
         "descricao": "Camisa",
-        "src": "https://m.media-amazon.com/images/I/51KBuwm95xL._AC_SY606_.jpg"
+        "src": "https://rsv-ink-images-production.s3.sa-east-1.amazonaws.com/images/product_v2/main_image/4b57b76d295c9eeec666e0c4abbebf58.webp"
     },
     {
         "id": 10,
-        "nome": "Caneca noCoffe",
+        "nome": "Caneca Preto Fosco",
         "preco": 22.00,
         "descricao": "Caneca",
-        "src": "https://m.media-amazon.com/images/I/71vcCT9dUeL._AC_SX569_.jpg"
+        "src": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg"
     }
 ]
