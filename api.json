@@ -70,7 +70,8 @@
         "src": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg"
     },
     {
-        "email": "gabrielrodriguesadmin123fake@hotmail.com",
-        "senha": "admin123"
+        "email": "gabrielrodrigues123fake@hotmail.com",
+        "senha": "admin123",
+        "nome": "Gabriel Rodrigues"
     }
 ]
